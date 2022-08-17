@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Student at Nashville Software School, Cohort 57
-- Bullet 2
-- Bullet 3
+- Currently learning how to build back-ends with C# and .NET
+- Check out my front-end capstone "Sudoku Source"
 
 <!--
 **evanm4183/evanm4183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
