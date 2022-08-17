@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Student at Nashville Software School, Cohort 57
-- Currently learning how to build back-ends with C# and .NET
+- Currently learning server-side developement using C# and .NET
 - Check out my front-end capstone "Sudoku Source"
 
 <!--
