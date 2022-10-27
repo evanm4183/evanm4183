@@ -2,6 +2,7 @@
 - Student at Nashville Software School, Cohort 57
 - Currently learning server-side developement using C# and .NET
 - Check out my front-end capstone "Sudoku Source"
+- Connect with me on LinkedIn at www.linkedin.com/in/evanm4183
 
 <!--
 **evanm4183/evanm4183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
