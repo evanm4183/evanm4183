@@ -1,6 +1,6 @@
 ### Hi there 👋
-- Student at Nashville Software School, Cohort 57
-- Currently learning server-side developement using C# and .NET
+- Graduate from Nashville Software School, Cohort 57
+- Checkout my back-end capstone "BetNFL"
 - Check out my front-end capstone "Sudoku Source"
 - Connect with me on LinkedIn at www.linkedin.com/in/evanm4183
 
